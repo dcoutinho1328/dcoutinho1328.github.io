@@ -50,8 +50,6 @@ a{
 }
 #text_title{
     position:center;
-    width: fit-content;
-    height: fit-content;
     margin: 15px;
     float:left;
 }
