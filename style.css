@@ -10,6 +10,7 @@ h1{
     margin-bottom: 2px;
 }
 h2{
+    margin-top: 0px;
     font-size: 20px;
     color: rgb(195, 207, 207);
 }
@@ -50,7 +51,7 @@ a{
 }
 #text_title{
     position:center;
-    margin: 15px;
+    margin: 5px;
     float:left;
 }
 #content{    
@@ -75,4 +76,9 @@ a{
     font-size: 10px;
     color:rgb(80, 238, 225);
     text-align: right;
+}
+#download_pdf{
+    background-color: rgb(80, 238, 225);
+    border-radius: 5px;
+    color: rgb(0, 121, 111);
 }
