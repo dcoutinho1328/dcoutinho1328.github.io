@@ -51,7 +51,9 @@ a{
 }
 #text_title{
     position:center;
-    margin: 5px;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
     float:left;
     margin-bottom: 30px;
 }
