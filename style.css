@@ -52,8 +52,7 @@ a{
 #text_title{
     position:center;
     margin: 5px;
-    float:left;
-    margin-bottom: 15px;
+    float:left;    
 }
 #content{    
     margin-top: 30px;
@@ -82,4 +81,5 @@ a{
     background-color: rgb(80, 238, 225);
     border-radius: 5px;
     color: rgb(0, 121, 111);
+    margin-bottom: 15px;
 }
