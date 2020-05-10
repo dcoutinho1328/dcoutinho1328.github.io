@@ -1,0 +1,12 @@
+{
+  "name": "Meu Currículo",
+  "short_name": "CurriculoDRC",
+  "theme_color": "rgba(0,121,111,1)",
+  "background_color": "rgba(151,255,220,0.685)",
+  "display": "standalone",
+  "orientation": "portrait",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": null,
+  "splash_pages": null
+}
