@@ -4,60 +4,20 @@ body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin: 0px;
 }
-h1{
-    font-size: 40px;
-    color: rgb(80, 238, 225);
-    margin-bottom: 2px;
-}
-h2{
-    margin-top: 0px;
-    font-size: 20px;
-    color: rgb(195, 207, 207);
-}
-h3{
-    margin-left: 25px;
-    margin-top: 15px;
-    margin-bottom: 5px;
-    font-size: 25px;
-    color: rgb(110, 145, 143);
-}
-p{
-    text-align: justify;
-    margin: 5px;
-    margin-left: 40px;
-    margin-right: 40px;
-    font-size: 18px;
-    color:rgb(0, 121, 111) ;
-}
-a{
-    color: rgb(0,121,111);
-}
-#certif{
-    margin-left: 100px;
-}
-#profile{
-    height: 150px;
-    width: 150px;
-    border-radius: 50%;
-    border-style: solid;
-    border-width: 5px;
-    border-color:  rgb(80, 238, 225);
-}
+
 #titulo{
-    width: 160px;
+    width:auto;
     height: 160px;
     margin: 15px;
-    float:left;
+    font-size: 120px;
+    color: aquamarine;
 }
-#text_title{
+p{
     position:center;
-    margin: 5px;
-    float:left;
+    margin: 45px;
     margin-bottom: 15px;
-}
-#content{    
-    margin-top: 30px;
-    width: 100%;
+    font-size: 50px;
+    color:  rgb(0, 121, 111);
 }
 #wrap_title{
     padding:0px;
@@ -66,20 +26,4 @@ a{
     height: fit-content;
     background-color: rgb(0, 121, 111);
     margin:0px;
-}
-#footer{
-    height: fit-content;
-    background-color: rgb(0, 121, 111);
-    margin: 0px;
-    margin-top: 45px;
-}
-#credits{
-    font-size: 10px;
-    color:rgb(80, 238, 225);
-    text-align: right;
-}
-#download_pdf{
-    background-color: rgb(80, 238, 225);
-    border-radius: 5px;
-    color: rgb(0, 121, 111);
 }
