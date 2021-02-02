@@ -1,0 +1,140 @@
+body{
+    background-blend-mode: lighten;
+    background-color: rgba(151, 255, 220, 0.685);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0px;
+    padding-bottom: 0px;
+}
+h1{
+    font-size: 40px;
+    color: rgb(80, 238, 225);
+    margin-bottom: 2px;
+}
+h2{
+    margin-top: 0px;
+    font-size: 20px;
+    color: rgb(195, 207, 207);
+}
+h3{
+    margin-left: 25px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-size: 25px;
+    color: rgb(110, 145, 143);
+}
+p{
+    text-align: justify;
+    margin: 5px;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: 18px;
+    color:rgb(0, 121, 111) ;
+}
+a{
+    color: rgb(0,121,111);
+}
+#profile{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 5px;
+    border-color:  rgb(80, 238, 225);
+}
+#titulo{
+    width: 160px;
+    height: 160px;
+    margin: 15px;
+    float:left;
+}
+#text_title{
+    position:center;
+    margin: 5px;
+    float:left;
+    margin-bottom: 15px;
+}
+#content{    
+    margin-top: 30px;
+    width: 100%;
+}
+#bemvindo{
+    font-size: 40px;
+    color:  rgb(0, 121, 111);
+    margin-bottom: 20px;
+}
+
+#aboutme{
+    font-size:30px;
+    color:  rgb(0, 121, 111);
+    margin-top:20px;
+    margin-bottom:20px;
+}
+#menu{
+    table-layout: fixed;
+    columns: 6;
+    rows:1;
+    margin:0px;
+    align-self:center;
+    align-content: center;
+    background-color:rgb(80, 238, 225);
+
+}
+.Submenu{
+    text-decoration: none;
+}
+.subdiv{
+    position: relative;
+    height: fit-content;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0px;
+    size: 100%;
+    text-align: center;
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color:rgb(0, 121, 111);
+}
+#wrap_title{
+    padding:0px;
+    display: table;
+    width: 100%;
+    height: fit-content;
+    background-color: rgb(0, 121, 111);
+    margin:0px;
+}
+#footer{
+    height: fit-content;
+    width:100%;
+    background-color: rgb(0, 121, 111);
+    margin: 0px;
+    margin-top: 45px;
+    margin-bottom: 0px;
+    position:relative;
+    bottom: 0;
+    padding-bottom: 5px;
+    padding-top:10px;
+}
+#credits{
+    font-size: 10px;
+    color:rgb(80, 238, 225);
+    text-align: right;
+    margin-bottom: 0px;
+}
+#contact-c{
+    font-size:15px;
+    color:rgb(80, 238, 225);
+    text-align: left;
+    padding-left: 15px;
+}
+#contact-h{
+    font-size:20px;
+    color:rgb(80, 238, 225);
+    text-align: left;
+}
+#download_pdf{
+    background-color:rgb(195, 207, 207);
+    border-radius: 5px;
+    color: rgb(0, 121, 111);
+    font-size: 15px;
+}
